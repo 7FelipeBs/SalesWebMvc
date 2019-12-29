@@ -154,3 +154,4 @@ C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\
 C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
 C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Index.cshtml.g.cs
