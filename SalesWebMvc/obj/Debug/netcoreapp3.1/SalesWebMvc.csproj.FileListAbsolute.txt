@@ -20,7 +20,6 @@ C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\
 C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.TagHelpers.output.cache
 C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.RazorCoreGenerate.cache
 C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -155,3 +154,5 @@ C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\
 C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
 C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Privacy\Index.cshtml.g.cs
