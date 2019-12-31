@@ -157,3 +157,4 @@ C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\
 C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Create.cshtml.g.cs
 C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Privacy\Index.cshtml.g.cs
 C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+C:\Users\felip\source\WebCourse\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Details.cshtml.g.cs
